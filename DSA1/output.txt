@@ -1,0 +1,6 @@
+The amount of words is: 46
+The amount of lines is: 10
+The amount of alphanumeric characters is: 187
+The amount of sentences is: 2
+The amount of vowels is: 75
+The amount of punctuations is: 7
